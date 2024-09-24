@@ -19,5 +19,5 @@ export default Blits.Component('Loading', {
         this.alpha = this.alpha === 1 ? 0 : 1
       }, 800)
     },
-  }
+  },
 })
